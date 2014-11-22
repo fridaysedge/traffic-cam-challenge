@@ -15,6 +15,9 @@ input {
 }
 
 .gm-style-iw{
-    width: 325px;
-    height: 325px
+    width: 210px;
+}
+
+.gm-style-iw img {
+    width: 200px;
 }
